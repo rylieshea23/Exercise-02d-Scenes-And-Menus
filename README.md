@@ -20,3 +20,8 @@ None
 
 ## Created by
 Rylie Bowman
+
+Hand drew all sprites used
+changed the background color
+adjusted bullet firing
+adjusted exhaust 
